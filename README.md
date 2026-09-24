@@ -18,7 +18,7 @@ The system also handles incorrect OTP attempts, OTP regeneration, employee block
 
 ## Code
 
-Check out the code of the project by clicking here!
+Check out the code of the project by clicking [here](https://github.com/Ramya-Mahi/Java-OTP-generation-and-verification-for-transport-system/tree/main/Code)!
 
 ## Usage
 
