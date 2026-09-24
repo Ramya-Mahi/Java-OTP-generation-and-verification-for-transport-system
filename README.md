@@ -60,10 +60,12 @@ The system displays the driver details and the number of employees assigned to t
 
 
 If an incorrect OTP is entered, the system displays the remaining attempts and generates a new OTP. After three incorrect attempts, the system blocks the employee's verification and prevents any further OTP from being generated for that employee.
+
 <img width="421" height="582" alt="image" src="https://github.com/user-attachments/assets/c9cf0125-2745-40f0-ac19-a4c8c86e0683" />
 
 
 The system also prevents an employee who has already been verified from being processed again.
+
 <img width="436" height="179" alt="image" src="https://github.com/user-attachments/assets/541940aa-0fb5-4765-8bc3-c84e965209a8" />
 
 If an employee does not show up for the trip, the driver can select “Close Boarding” to end the boarding process without verifying that employee. The employee is therefore treated as a no-show for that trip. Once all employees have been processed, the system displays the boarding completion status and the number of verified employees.
